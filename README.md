@@ -7,3 +7,6 @@ Esse projeto foi criado para refinar a modelagem feita no desafio de projeto "Co
 * Criação das tabelas;
 * Inserção de dados;
 * Recuperação de dados.
+
+## Modelo lógico do banco de dados:
+![modelagem ecommerce](https://github.com/LuizBrenoDev/modelagem-refinamento-ecommerce/assets/118695802/374368d5-09b7-4797-91d8-c7d3081fd7fd)
