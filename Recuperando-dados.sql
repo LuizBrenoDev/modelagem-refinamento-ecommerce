@@ -56,3 +56,9 @@ WHERE produto.id_produto = estoque.id_produto;
 -- Recuperando os produtos com classificação maior que 3
 SELECT produto.nome, produto.categoria, produto.classificacao, produto.avaliacao FROM produto
 WHERE produto.avaliacao > 4;
+
+-- Recuperando valor total de um pedido
+SELECT produto.valor * produtos_do_pedido.quantidade AS ValorTotal, cliente.id_cliente AS IDCliente 
+FROM produto, produtos_do_pedido, pedido, cliente
+WHERE cliente.id_cliente = pedido.id_cliente_do_pedido;
+
