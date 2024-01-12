@@ -1,40 +1,40 @@
 USE shop;
 
 INSERT INTO produto VALUES (
-	677, "Notebook PRO", "Livre para todos os públicos", "Eletrônicos", 3.3 
+	677, "Notebook PRO", "Livre para todos os públicos", "Eletrônicos", 2000.0, 3.3 
 );
 INSERT INTO produto VALUES (
-	489, "O Cavaleiro", "Idade igual ou superior a 18 anos", "Filmes", 4.8 
+	489, "O Cavaleiro", "Idade igual ou superior a 18 anos", "Filmes", 1200.0, 4.8 
 );
 INSERT INTO produto VALUES (
-	333, "Video Game PRO", "Livre para todos os públicos", "Video Game", 3.5
+	333, "Video Game PRO", "Livre para todos os públicos", "Video Game", 3000.0, 3.5
 );
 INSERT INTO produto VALUES (
-	908, "Bola de Borracha", "Livre para todos os públicos", "Brinquedos", 2.7 
+	908, "Bola de Borracha", "Livre para todos os públicos", "Brinquedos", 100.0, 2.7 
 );
 INSERT INTO produto VALUES (
-	445, "Televisão Modelo 445", "Livre para todos os públicos", "Eletrônicos", 3.0
+	445, "Televisão Modelo 445", "Livre para todos os públicos", "Eletrônicos",1500.0, 3.0
 );
 INSERT INTO produto VALUES (
-	456, "O Iluminado", "Idade Superior ou igual a 14 anos", "Livros", 4.9
+	456, "O Iluminado", "Idade Superior ou igual a 14 anos", "Livros", 50.0, 4.9
 );
 INSERT INTO produto VALUES (
-	380, "Pratos Floridos", "Livre para todos os públicos", "Utensílios Domésticos", 3.2
+	380, "Pratos Floridos", "Livre para todos os públicos", "Utensílios Domésticos", 80.0, 3.2
 );
 INSERT INTO produto VALUES (
-	776, "Pintura do pôr do sol", "Livre para todos os públicos", "Outros", 4.5
+	776, "Pintura do pôr do sol", "Livre para todos os públicos", "Outros", 37.0, 4.5
 );
 INSERT INTO produto VALUES (
-	987, "It", "Idade Superior ou igual a 14 anos", "Livros", 3.9
+	987, "It", "Idade Superior ou igual a 14 anos", "Livros", 60.0, 3.9
 );
 INSERT INTO produto VALUES (
-	551, "Cujo", "Idade Superior ou igual a 14 anos", "Livros", 3.3
+	551, "Cujo", "Idade Superior ou igual a 14 anos", "Livros", 88.0, 3.3
 );
 INSERT INTO produto VALUES (
-	399, "Misery: Louca Obsessão", "Idade Superior ou igual a 14 anos", "Livros", 3.8
+	399, "Misery: Louca Obsessão", "Idade Superior ou igual a 14 anos", 56.0, "Livros", 3.8
 );
 INSERT INTO produto VALUES (
-	775, "Sob a Redoma", "Idade Superior ou igual a 14 anos", "Livros", 3.7
+	775, "Sob a Redoma", "Idade Superior ou igual a 14 anos", "Livros", 38.0, 3.7
 );
 
 INSERT INTO estoque VALUES (677, 'Eletrônicos', 50),
