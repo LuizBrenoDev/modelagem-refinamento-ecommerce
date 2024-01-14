@@ -12,4 +12,4 @@ Esse projeto foi criado para refinar a modelagem feita no desafio de projeto "Co
 ![modelagem ecommerce](https://github.com/LuizBrenoDev/modelagem-refinamento-ecommerce/assets/118695802/374368d5-09b7-4797-91d8-c7d3081fd7fd)
 
 ## Autor: Luiz Breno
-## Arquivo do modelo lógico no repositório do github: https://github.com/LuizBrenoDev/modelagem-refinamento-ecommerce
+Arquivo do modelo lógico no repositório do github: https://github.com/LuizBrenoDev/modelagem-refinamento-ecommerce
